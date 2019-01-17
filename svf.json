@@ -1,0 +1,14 @@
+{
+    "taxstatus": [
+      { "id": 1, "descr": "Association Of Person"},
+      { "id": 2, "descr": "Body of Individual"},
+      { "id": 3, "descr": "Corporate"},
+      { "id": 4, "descr": "Firms"},
+      { "id": 5, "descr": "HUF"},
+      { "id": 6, "descr": "Judicial Artificial Person"},
+      { "id": 7, "descr": "Non Resident Indian"},
+      { "id": 8, "descr": "Resident Individual"},
+      { "id": 9, "descr": "Senior Citizen"},
+      { "id": 10, "descr": "Trust"}
+    ]
+  }
